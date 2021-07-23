@@ -1,1 +1,1 @@
-# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+https://replit.com/@--andrew--/boilerplate-project-sudoku-solver#README.md
