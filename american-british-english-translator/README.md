@@ -1,1 +1,1 @@
-# [Quality Assurance Projects - American / British Translator](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
+https://replit.com/@--andrew--/boilerplate-project-american-british-english-translator#README.md
