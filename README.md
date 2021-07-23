@@ -2,6 +2,6 @@
 
 [Metric-Imperial Converter](https://github.com/AndrejTS/Quality-Assurance-Projects/tree/main/metricimpconverter)  
 [Issue Tracker](https://github.com/AndrejTS/Quality-Assurance-Projects/tree/main/issuetracker)   
-[Personal Library](https://replit.com/@--andrew--/boilerplate-project-library#README.md)   
+[Personal Library](https://github.com/AndrejTS/Quality-Assurance-Projects/tree/main/personallibrary)   
 [Sudoku Solver]()   
 [American British Translator]()   
